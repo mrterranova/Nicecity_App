@@ -1,4 +1,7 @@
 # NiceCity
+
+Here at NiceCity we encourage local volunteer services. No matter what community you are in, just login in and see who is posting a volunteer service or create your own post. You can also blog about the service in the blog section to allow other volunteers to know which events they should look out for in the future! 
+
 ======= Become a part of Nicecity here: https://nicecity-project-app.herokuapp.com/login
 
 :city_sunrise: Grow your community by participating in local projects or give back to the community by creating your own project! NiceCity is the perfect way to create a Nicer City!
