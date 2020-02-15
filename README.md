@@ -30,6 +30,17 @@ NiceCity uses a wide range of open source packages and code in order to create b
 - Travis for linting & testing
 - Agile methodology
 
+## Deploying Project
+In order to run this particular project locally:
+- Fork and clone repository. Make sure that you have repo on local computer. 
+- First you will need to go into the folder and in the terminal npm install. 
+- Be certain that mySQL is installed on local computer. 
+- Open mySQL and type commands: 
+        CREATE DATABASE niceCity;
+         USE niceCity;
+- Now you should be able to view the app on local host Port written in terminal. 
+- Lastly type npm start and your application should run locally on the port named in the terminal. 
+
 ## Authors
 
 These are some of the people dedicated to making your community a better place:
